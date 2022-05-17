@@ -1,0 +1,1 @@
+Custom REST service template
